@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (MaxMinHeap1.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 在函式 _main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中參考了無法解析的外部符號
+C:\Users\ycai6\source\repos\MaxMinHeap1\Debug\Ma.exe : fatal error LNK1120: 1 個無法解析的外部符號
